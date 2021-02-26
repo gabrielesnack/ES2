@@ -1,0 +1,79 @@
+processo de software
+atividades de software
+modelos
+organização
+métodos ágeis
+
+------------------------------
+software
+documentação
+funcionalidade
+desempenho
+usabilidade
+confiável
+
+------------------------------
+engenharia de software
+produção
+evolução
+especificação
+validação
+
+------------------------------
+teoria
+fundamento
+prático
+diminuição de tempo
+qualidade
+testes
+segurança
+
+------------------------------
+especificação
+projeto
+implementação
+validação
+evolução
+	
+------------------------------
+cascata
+imcremental
+orientado a reuso
+frameworks
+abstração
+requisitos
+projeto
+implementação
+testes
+integralçao
+operação
+manutenção
+validação
+versões
+componentes
+reuso
+
+------------------------------
+especificação
+desenvolvimento
+validação
+evolução
+projetar
+
+------------------------------
+viabilidade
+elicitação
+análise
+especificação
+validação
+
+------------------------------
+arquitetura
+projetos
+modelo
+ideia
+interface
+componentes
+banco de dados
+testes
+planos
